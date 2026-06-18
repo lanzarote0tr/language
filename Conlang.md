@@ -29,17 +29,19 @@ This is the listed version of the vowels:\
 a, i, eu, e, eo, uy, u, oy, o
 
 #### 1.2.2 diphthong
-|        |**a**|**i**|**eu**|**u**|**e**|**eo**|**o**|
-| ------ | --- | --- | ---- | --- | --- | ---- | --- |
-| **a**  |     | ai  | aeu  | au  | ae  | aeo  | ao  |
-| **i**  | ja  |     | jeu  | ju  | je  | jeo  | jo  |
-| **eu** | ewa | ewi |      | ewu | ewe | eweo | ewo |
-| **u**  | wa  | wi  | weu  |     | we  | weo  | wo  |
-| **e**  | ea  | ei  | eeu  | eu  |     | eeo  | eo  |
-| **eo** | eoa | eoi | eoeu | eou | eoe |      | eoo |
-| **o**  | oa  | oi  | oeu  | ou  | oe  | oeo  |     |
+|        |**a**|**i**|**eu**|**e**|**eo**|**u**|**o**|
+| ------ | --- | --- | ---- | --- | ---- | --- | --- |
+| **a**  |     | ai  | aeu  | ae  | aeo  | au  | ao  |
+| **i**  | ja  |     | jeu  | je  | jeo  | ju  | jo  |
+| **eu** | ewa | ewi |      | ewe | eweo | ewu | ewo |
+| **e**  | ea  | ei  | eeu  |     | eeo  | eu  | eo  |
+| **eo** | eoa | eoi | eoeu | eoe |      | eou | eoo |
+| **u**  | wa  | wi  | weu  | we  | weo  |     | wo  |
+| **o**  | oa  | oi  | oeu  | oe  | oeo  | ou  |     |
+| **uy** | wya | wyi | wyeu | wye | wyeo | wyu | wyo |
+| **oy** | oya | oyi | oyeu | oye | oyeo | oyu | oyo |
 
-\* The start and end being *uy* or *oy* is not allowed because of the complexity. 
+\* The end being *uy* or *oy* is not allowed because of the complexity. 
 
 ## 2. Vocabulary
 ### 2.1 
