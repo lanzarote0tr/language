@@ -44,4 +44,65 @@ a, i, eu, e, eo, uy, u, oy, o
 \* The end being *uy* or *oy* is not allowed because of the complexity. 
 
 ## 2. Vocabulary
-### 2.1 
+### 2.1 Numerals
+
+eon
+1
+
+dwa
+2
+
+trai
+3
+
+virh
+4
+
+sink
+5
+
+sech
+6
+
+sept'em
+7
+
+eokt'o
+8
+
+div'em
+9
+
+d'eci
+10
+
+c'enti
+100
+
+t'auzi
+1,000
+
+m'ili
+1,000,000
+
+mili'ardi
+1,000,000,000
+
+b'ili
+1,000,000,000,000
+
+bili'ardi
+1,000,000,000,000,000
+
+tr'ili
+1,000,000,000,000,000,000
+
+
+lasmaieu
+[las-MAI-jeu]
+
+slitkan
+
+erhsnt
+
+rastra
