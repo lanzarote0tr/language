@@ -103,11 +103,11 @@ bili
 [BI-li]
 1,000,000,000,000
 
-bili'ardi
+biliardi
 [bili-AR-di]
 1,000,000,000,000,000
 
-tr'ili
+trili
 [TRI-li]
 1,000,000,000,000,000,000
 
