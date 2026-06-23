@@ -33,12 +33,12 @@ a, i, eu, e, eo, uy, u, oy, o
 | ------ | --- | --- | ---- | --- | ---- | --- | --- |
 | **a**  |     | ai  | aeu  | ae  | aeo  | au  | ao  |
 | **i**  | ja  |     | jeu  | je  | jeo  | ju  | jo  |
-| **eu** | ewa | ewi |      | ewe | eweo | ewu | ewo |
-| **e**  | ea  | ei  | eeu  |     | eeo  | eu  | eo  |
+| **eu** | eua | eui |      | eue | eueo | euu | euo |
+| **e**  | ea  | ei  | eeu  |     | eeo  | eju | ejo |
 | **eo** | eoa | eoi | eoeu | eoe |      | eou | eoo |
-| **u**  | wa  | wi  | weu  | we  | weo  |     | wo  |
+| **u**  | ua  | ui  | ueu  | ue  | ueo  |     | uo  |
 | **o**  | oa  | oi  | oeu  | oe  | oeo  | ou  |     |
-| **uy** | wya | wyi | wyeu | wye | wyeo | wyu | wyo |
+| **uy** | uya | uyi | uyeu | uye | uyeo | uyu | uyo |
 | **oy** | oya | oyi | oyeu | oye | oyeo | oyu | oyo |
 
 \* The end being *uy* or *oy* is not allowed because of the complexity. 
@@ -64,39 +64,59 @@ sink
 sech
 6
 
-sept'em
+septem
+[sep-TEM]
 7
 
-eokt'o
+eokto
+[eok-TO]
 8
 
-div'em
+divem
+[div-EM]
 9
 
-d'eci
+desi
+[DE-si]
 10
 
-c'enti
+senti
+[SEN-ti]
 100
 
-t'auzi
+tauzi
+[TAU-zi]
 1,000
 
-m'ili
+mili
+[MI-li]
 1,000,000
 
-mili'ardi
+miliardi
+[mili-AR-di]
 1,000,000,000
 
-b'ili
+bili
+[BI-li]
 1,000,000,000,000
 
 bili'ardi
+[bili-AR-di]
 1,000,000,000,000,000
 
 tr'ili
+[TRI-li]
 1,000,000,000,000,000,000
 
+jazik
+Langauge
+
+kuekpeb
+[KUEK-peb]
+The name of this language.
+
+kuekpezik
+The Kuekpjeb Language
 
 lasmaieu
 [las-MAI-jeu]
@@ -106,3 +126,9 @@ slitkan
 erhsnt
 
 rastra
+
+
+## 3. Grammar
+
+Adjective should come before the noun. i.e. Fierce lion (o), Lion fierce (x)
+
