@@ -1,4 +1,4 @@
-﻿# Conlang
+﻿# Kuekpezik
 
 ## 1. Sounds
 
@@ -49,68 +49,27 @@ a, i, eu, e, eo, uy, u, oy, o
 ## 2. Vocabulary
 ### 2.1 Numerals
 
-eon
-1
+0: nul
+1: eon
+2: dwa
+3: trai
+4: virh
+5: sink
+6: sech
+7: septem [sep-TEM]
+8: eokto [eok-TO]
+9: divem [di-VEM]
+10: desi [DE-si]
+100: senti [SEN-ti]
+1,000: tauzi [TAU-zi]
+1,000,000: mili [MI-li]
+1,000,000,000: miljardi [mil-JAR-di]
+1,000,000,000,000: bili [BI-li]
+1,000,000,000,000,000: biljardi [bil-JAR-di]
+1,000,000,000,000,000,000: trili [TRI-li]
 
-dwa
-2
-
-trai
-3
-
-virh
-4
-
-sink
-5
-
-sech
-6
-
-septem
-[sep-TEM]
-7
-
-eokto
-[eok-TO]
-8
-
-divem
-[div-EM]
-9
-
-desi
-[DE-si]
-10
-
-senti
-[SEN-ti]
-100
-
-tauzi
-[TAU-zi]
-1,000
-
-mili
-[MI-li]
-1,000,000
-
-miliardi
-[mili-AR-di]
-1,000,000,000
-
-bili
-[BI-li]
-1,000,000,000,000
-
-biliardi
-[bili-AR-di]
-1,000,000,000,000,000
-
-trili
-[TRI-li]
-1,000,000,000,000,000,000
-
+1234: eon-tauzi-dwa-senti-trai-desi-virh
+32,057,000,736: trai-desi-dwa-miljardi-sink-desi-septem-mili-septem-senti-trai-desi-sech
 
 ### 2.2 Language
 
