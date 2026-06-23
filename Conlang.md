@@ -12,6 +12,9 @@
 | **Apx.**   |          |         | rh [ɹ]  |         |        |         |
 | **LtApx.** |          |         | l       |         |        |         |
 
+Adding h to voiceless consonants (p, t, k) *can* make each consonants aspirated.
+Note that h is also used for voiceless glottal fricative.
+
 |                     | **Affricate**     |
 | ------------------- | ----------------- |
 | **Alveolar**        | ts [t͡s] dz [d͡z] |
@@ -108,7 +111,11 @@ tr'ili
 [TRI-li]
 1,000,000,000,000,000,000
 
+
+### 2.2 Language
+
 jazik
+[ja-ZIK]
 Langauge
 
 kuekpeb
@@ -116,7 +123,10 @@ kuekpeb
 The name of this language.
 
 kuekpezik
-The Kuekpjeb Language
+[kuek-PE-zik]
+The Kuekpeb Language
+
+### 2.X Ideas
 
 lasmaieu
 [las-MAI-jeu]
@@ -126,7 +136,6 @@ slitkan
 erhsnt
 
 rastra
-
 
 ## 3. Grammar
 
