@@ -1,4 +1,4 @@
-﻿# Kuekpezik
+# Kuekpezik
 
 ## 1. Sounds
 
@@ -8,7 +8,7 @@
 | **Plsv.**  | p b      |         | t d     |         | k g    |         |
 | **Nsl.**   | m        |         | n       |         | ng[ŋ]  |         |
 | **TpFlp.** |          |         | r [ɾ/r] |         |        |         |
-| **Fric.**  |          | f v     | s z     | sh zh   |        | h       |
+| **Fric.**  | fh       | f v     | s z     | sh zh   |        | h       |
 | **Apx.**   |          |         | rh [ɹ]  |         |        |         |
 | **LtApx.** |          |         | l       |         |        |         |
 
@@ -85,10 +85,82 @@ kuekpezik
 /kuek-PE-zik/
 The Kuekpeb Language
 
+### 2.3 Pronouns
+
+Na
+나
+
+Vi
+우리
+
+duy
+너
+
+jeou(informal) / jaul(formal)
+너희들 / 여러분
+
+dra
+그 사람
+
+lim
+그것
+
+stras
+감사
+
+strasdi
+/stRAS-di/
+Thank you.
+
+strazeou
+/stRA-zeou/
+Thank y'all.(informal)
+
+strazhau
+/stRA-zhau/
+Thank you everyone.(formal)
+
+strasvi
+/stRAS-vi/
+Thank us (축복의 의미)
+
+### 2.4 인사말
+
+hei!
+hey!(informal)
+
+lasmaieo
+/las-MAI-jeo/
+hello(formal)
+
+
+### 2.5 시간
+
+praf
+새벽(일출 전까지)
+
+helaf
+/he-LAF/
+새벽(일출)
+
+lafeum
+/LA-feum/
+아침
+
+pofeum
+/PO-feum/
+점심
+
+naufheum
+/MIL-fheum/
+저녁(6시)
+
+henau
+/he-MIL/
+밤(9시)
+
 ### 2.X Ideas
 
-lasmaieu
-/las-MAI-jeu/
 
 slitkan
 
