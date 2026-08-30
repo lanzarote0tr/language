@@ -133,6 +133,17 @@ lasmaieo
 /las-MAI-jeo/
 hello(formal)
 
+dzhoi
+good (morning)
+
+dzhoila
+good morning
+
+dzhoipo
+good afternoon
+
+dzhoinau
+good night (more like good 6pm)
 
 ### 2.5 시간
 
@@ -140,7 +151,7 @@ praf
 새벽(일출 전까지)
 
 helaf
-/he-LAF/
+/HE-laf/
 새벽(일출)
 
 lafeum
@@ -152,15 +163,16 @@ pofeum
 점심
 
 naufheum
-/MIL-fheum/
+/NAU-fheum/
 저녁(6시)
 
 henau
-/he-MIL/
+/HE-nau/
 밤(9시)
 
-### 2.X Ideas
 
+
+### 2.X Ideas
 
 slitkan
 
