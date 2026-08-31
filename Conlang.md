@@ -94,9 +94,9 @@ strasvi /stRAS-vi/  Thank us (축복의 의미)
 hei  hey/hello(informal)
 lasmaieo /las-MAI-jeo/  hello(formal)
 dzhoi  good (morning)
-dzhoila  good morning
-dzhoipo  good afternoon
-dzhoinau  good night (more like good 6pm)
+ladzhoi  good morning
+podzhoi  good afternoon
+nadzhoi  good night (more like good 6pm)
 
 ### 2.5 시간
 plaf  새벽(일출 전까지)
@@ -107,6 +107,16 @@ naufheum /NAU-fheum/  저녁(6시)
 henau /he-NAU/  밤(9시)
 
 ### 2.6 verbs
+est / -st  ~이다, ~은/는, 명사술어
+gau  do
+gaum  did
+hab/haboy /HA-boy/  있다(가지다)
+tsuy  go
+lai  come
+preseong /pre-SEONG/  give
+treveong /tre-VEONG/  take
+
+
 jab: 말하다 -- jazik is language.
 
 ### 2.X Ideas
@@ -118,6 +128,15 @@ slitkan
 erhsnt
 rastra
 
-## 3. Grammar
+## 3. Examples
+
+Nast Dauid.
+I am Ethan.
+
+
+
+
+
+## 4. Grammar
 
 Adjective should come before the noun. i.e. Fierce lion (o), Lion fierce (x)
