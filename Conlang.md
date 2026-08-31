@@ -147,11 +147,11 @@ good night (more like good 6pm)
 
 ### 2.5 시간
 
-praf
+plaf
 새벽(일출 전까지)
 
 helaf
-/HE-laf/
+/he-LAF/
 새벽(일출)
 
 lafeum
@@ -167,12 +167,18 @@ naufheum
 저녁(6시)
 
 henau
-/HE-nau/
+/he-NAU/
 밤(9시)
 
 
 
 ### 2.X Ideas
+
+ai~~
+
+krai-: connect with Christ
+
+
 
 slitkan
 
