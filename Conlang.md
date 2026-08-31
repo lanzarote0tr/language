@@ -100,12 +100,12 @@ podzhoi  good afternoon
 nadzhoi  good night (more like good 6pm)
 
 ### 2.5 시간
-plaf  새벽(일출 전까지)
 helaf /he-LAF/  새벽(일출)
 lafeum /LA-feum/  아침
 pofeum /PO-feum/  점심
 naufheum /NAU-fheum/  저녁(6시)
 henau /he-NAU/  밤(9시)
+pnau  새벽(일출 전까지)
 
 ### 2.6 verbs
 est / -st  ~이다, ~은/는, 명사술어
