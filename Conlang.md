@@ -93,6 +93,7 @@ strasvi /stRAS-vi/  Thank us (축복의 의미)
 ### 2.4 인사말
 hei  hey/hello(informal)
 lasmaieo /las-MAI-jeo/  hello(formal)
+lasmajaul /las-MAI-jaul/ Hello everyone.(formal)
 dzhoi  good (morning)
 ladzhoi  good morning
 podzhoi  good afternoon
@@ -131,7 +132,7 @@ rastra
 ## 3. Examples
 
 Nast Dauid.
-I am Ethan.
+I am David.
 
 
 
