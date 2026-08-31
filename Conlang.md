@@ -72,121 +72,52 @@ a, i, eu, e, eo, uy, u, oy, o
 32,057,000,736: trai-desi-dwa-miljardi-sink-desi-septem-mili-septem-senti-trai-desi-sech
 
 ### 2.2 Language
-
-jazik
-/ja-ZIK/
-Langauge
-
-kuekpeb
-/KUEK-peb/
-The name of this language.
-
-kuekpezik
-/kuek-PE-zik/
-The Kuekpeb Language
+jazik /ja-ZIK/  Langauge
+kuekpeb /KUEK-peb/  The name of this language.
+kuekpezik /kuek-PE-zik/  The Kuekpeb Language
 
 ### 2.3 Pronouns
-
-Na
-나
-
-Vi
-우리
-
-duy
-너
-
-jeou(informal) / jaul(formal)
-너희들 / 여러분
-
-dra
-그 사람
-
-lim
-그것
-
-stras
-감사
-
-strasdi
-/stRAS-di/
-Thank you.
-
-strazeou
-/stRA-zeou/
-Thank y'all.(informal)
-
-strazhau
-/stRA-zhau/
-Thank you everyone.(formal)
-
-strasvi
-/stRAS-vi/
-Thank us (축복의 의미)
+Na  나
+Vi  우리
+duy  너
+jeou  너희들(informal)
+jaul  여러분(formal)
+dra  그 사람
+lim  그것
+stras  감사, 감사합니다
+strasdi /stRAS-di/  Thank you. (더 감사함)
+strazeou /stRA-zeou/  Thank y'all.(informal)
+strazhau /stRA-zhau/  Thank you everyone.(formal)
+strasvi /stRAS-vi/  Thank us (축복의 의미)
 
 ### 2.4 인사말
-
-hei!
-hey!(informal)
-
-lasmaieo
-/las-MAI-jeo/
-hello(formal)
-
-dzhoi
-good (morning)
-
-dzhoila
-good morning
-
-dzhoipo
-good afternoon
-
-dzhoinau
-good night (more like good 6pm)
+hei  hey/hello(informal)
+lasmaieo /las-MAI-jeo/  hello(formal)
+dzhoi  good (morning)
+dzhoila  good morning
+dzhoipo  good afternoon
+dzhoinau  good night (more like good 6pm)
 
 ### 2.5 시간
+plaf  새벽(일출 전까지)
+helaf /he-LAF/  새벽(일출)
+lafeum /LA-feum/  아침
+pofeum /PO-feum/  점심
+naufheum /NAU-fheum/  저녁(6시)
+henau /he-NAU/  밤(9시)
 
-plaf
-새벽(일출 전까지)
-
-helaf
-/he-LAF/
-새벽(일출)
-
-lafeum
-/LA-feum/
-아침
-
-pofeum
-/PO-feum/
-점심
-
-naufheum
-/NAU-fheum/
-저녁(6시)
-
-henau
-/he-NAU/
-밤(9시)
-
-
+### 2.6 verbs
+jab: 말하다 -- jazik is language.
 
 ### 2.X Ideas
 
 ai~~
-
 krai-: connect with Christ
-
-
-
+klai-: kleine
 slitkan
-
 erhsnt
-
 rastra
 
 ## 3. Grammar
 
 Adjective should come before the noun. i.e. Fierce lion (o), Lion fierce (x)
-
