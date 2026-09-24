@@ -1,5 +1,67 @@
 # Kuekpezik
 
+## 0. Culture
+
+### 0.1 Communication
+
+Kuekpezik is a low-context language. Speakers are generally expected to express
+their meaning explicitly instead of relying on shared assumptions, indirect
+hints, or unspoken social rules.
+
+Frankness is valued. Disagreement is acceptable and is not considered an act of
+disrespect by itself: a speaker may respect a person while openly disagreeing
+with that person's opinion. Slander, hate speech, and disrespect toward a
+person's role or position are considered improper. Merely using respectful
+vocabulary, however, does not make a statement or speaker genuinely respectful.
+
+The culture has no general conversational taboos. Its speakers tend to believe
+that problems grow from a lack of communication, so even difficult subjects
+should be discussable.
+
+### 0.2 Formality and respect
+
+Social rank does not determine the grammar of Kuekpezik. Formality and respect
+can influence word choice, but ordinary conversation normally remains informal,
+even when someone is speaking with a superior such as a boss.
+
+Formal language is mainly intended for speeches, public statements, ceremonies,
+and similar settings. When addressing someone respectfully, speakers prefer a
+last name accompanied by an appropriate title, such as *Sir*, *Madam*, or
+*Doctor*.
+
+### 0.3 Time
+
+Speakers are not especially concerned with absolute clock time, such as exactly
+9:00 or 12:00. They pay more attention to relative time: whether an event
+happened before or after another event, and whether an action or state is
+ongoing, completed, or repeated.
+
+### 0.4 Gender and family
+
+Kuekpezik does not grammatically distinguish sex or gender.
+
+Family is understood primarily as the people with whom someone spends most of
+their time, rather than as a strictly biological category. Relatives are family
+when they share that close, everyday relationship. The culture encourages
+people to make their relatives part of this closest social circle, but kinship
+alone does not automatically create closeness.
+
+### 0.5 Religion and values
+
+Kuekpezik culture is subtly influenced by Christianity and encourages people to
+follow the values taught by Jesus. This influence may appear in blessings and
+expressions such as *strasvi*, whose cultural sense can resemble a communal
+blessing such as “God bless America.” It is not necessary to be Christian—or
+religious at all—to speak Kuekpezik, and religious ideas are not meant to
+dominate ordinary conversation.
+
+### 0.6 General cultural setting
+
+Kuekpezik speakers do not have a distinctive traditional homeland, dress,
+cuisine, ritual system, gesture system, or defining historical event. They are
+ordinary people living within broadly Western culture. Guests, foreigners, and
+learners of the language are expected to be treated with ordinary respect.
+
 ## 1. Sounds
 
 ### 1.1 Consonants
@@ -76,7 +138,7 @@ jazik /ja-ZIK/  Langauge
 kuekpeb /KUEK-peb/  The name of this language.
 kuekpezik /kuek-PE-zik/  The Kuekpeb Language
 
-### 2.3 Pronouns
+### 2.3 Pronouns and kinship terms
 Na  나
 Vi  우리
 duy  너
@@ -90,14 +152,28 @@ strazeou /stRA-zeou/  Thank y'all.(informal)
 strazhau /stRA-zhau/  Thank you everyone.(formal)
 strasvi /stRAS-vi/  Thank us (축복의 의미)
 
+mom
+mother
+dad
+father
+brother
+sister
+grand-
+
+
+
 ### 2.4 인사말
-hei  hey/hello(informal)
 lasmaieo /las-MAI-jeo/  hello(formal)
-lasmajaul /las-MAI-jaul/ Hello everyone.(formal)
+lasmajaul /las-MAI-jaul/  Hello everyone.(formal)
+hei  hey/hello(informal)
+
 dzhoi  good (morning)
 ladzhoi  good morning
 podzhoi  good afternoon
 nadzhoi  good night (more like good 6pm)
+
+tsyusai /tsyu-SAI/  (literally: Go safe) Goodbye, さようなら (long of indefinite separation)
+dwateo /DWA-teo/  see (you) again, 또봐
 
 ### 2.5 시간
 helaf /he-LAF/  새벽(일출)
@@ -116,18 +192,43 @@ tsuy  go
 lai  come
 preseong /pre-SEONG/  give
 treveong /tre-VEONG/  take
+aineum /AI-neum/  want
 
+main  see (with eyes)
+  look (with attention)
+ateo  만나다 (meet someone)
 
 jab: 말하다 -- jazik is language.
 
+### 2.7 prefixes
+
+dwi-  re-, again
+
 ### 2.X Ideas
+
+sai safe
 
 ai~~
 krai-: connect with Christ
 klai-: kleine
 slitkan
+shtaiveon
 erhsnt
 rastra
+shoreumhaln
+tleplai
+tilapija
+hkre
+
+maini
+main
+mestem
+mekransti
+mekrami
+metropolitan
+me
+
+
 
 ## 3. Examples
 
